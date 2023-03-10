@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\gc\Desktop\proyectosQuark\promedioTemperaturaProv\promedioTemperaturaProv\Source.cpp(56,16): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gc\Desktop\proyectosQuark\promedioTemperaturaProv\promedioTemperaturaProv\Source.cpp(58,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gc\Desktop\proyectosQuark\promedioTemperaturaProv\promedioTemperaturaProv\Source.cpp(71,10): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gc\Desktop\proyectosQuark\promedioTemperaturaProv\promedioTemperaturaProv\Source.cpp(78,28): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  promedioTemperaturaProv.vcxproj -> C:\Users\gc\Desktop\proyectosQuark\promedioTemperaturaProv\x64\Debug\promedioTemperaturaProv.exe

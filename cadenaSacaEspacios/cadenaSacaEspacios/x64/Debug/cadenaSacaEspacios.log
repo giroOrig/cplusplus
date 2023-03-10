@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\gc\Desktop\proyectosQuark\cadenaSacaEspacios\cadenaSacaEspacios\Source.cpp(11,32): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  cadenaSacaEspacios.vcxproj -> C:\Users\gc\Desktop\proyectosQuark\cadenaSacaEspacios\x64\Debug\cadenaSacaEspacios.exe

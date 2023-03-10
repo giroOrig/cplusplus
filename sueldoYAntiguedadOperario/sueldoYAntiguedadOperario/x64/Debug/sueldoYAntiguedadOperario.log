@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\gc\Desktop\proyectosQuark\sueldoYAntiguedadOperario\sueldoYAntiguedadOperario\Source.cpp(16,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gc\Desktop\proyectosQuark\sueldoYAntiguedadOperario\sueldoYAntiguedadOperario\Source.cpp(23,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  sueldoYAntiguedadOperario.vcxproj -> C:\Users\gc\Desktop\proyectosQuark\sueldoYAntiguedadOperario\x64\Debug\sueldoYAntiguedadOperario.exe

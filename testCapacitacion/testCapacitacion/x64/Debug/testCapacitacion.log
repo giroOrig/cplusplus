@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\gc\Desktop\proyectosQuark\testCapacitacion\testCapacitacion\Source.cpp(12,53): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  testCapacitacion.vcxproj -> C:\Users\gc\Desktop\proyectosQuark\testCapacitacion\x64\Debug\testCapacitacion.exe
